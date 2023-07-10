@@ -1,0 +1,28 @@
+header>a{padding-left: 30px;padding-bottom: 10px;color: yellow;text-decoration: none;}
+li{list-style: none;}
+table{width: 80%;margin-right: 15px;}
+ul li{padding: 0 20px 0 20px;}
+nav{background-color: rgba(180, 175, 175, 0.513);width: 14.5%;margin-top: 78px;
+	position: fixed;display: block;text-align: center;position: ;margin-left: 0;border-radius: 20px;}
+nav div{padding: 0 10px 0 10px;}
+nav div:hover{border: solid;border-radius: 20px;}
+nav div :active{background-color: yellow;}
+footer{margin-bottom: 1px;}
+ div input[type=text]{padding-right: 70px;margin-right: 300px;}
+/*body{background-color: #C5EBFA;}*/
+img{width:250px;height:250px}
+.categorie{text-align:center;border:black solid;display:inline-block;margin: 10px;border-radius: 10px;margin-right: 5px;}
+.produit{text-align:center;display:block;margin-left: 160px;padding: 5px;}
+@media screen and (max-width: 768px)
+{
+	nav{margin-top: 121px;position: fixed;display: block;text-align: center;width: 25%;}
+	nav div{padding: 2%;}
+	nav div:hover{border: solid black;border-radius: 10px;}
+	/*nav div:hover{border: solid;width: 100%;}
+	body{background-color:  yellowgreen;}*/
+	header{height: 115px;}
+	div input{margin-top: 10px;}
+	.categorie{width: 100%;border-width: 25%;margin-top: 50px;ou}
+}
+
+
